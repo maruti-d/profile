@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/profile/static/css/main.41cc1539.css",
+    "main.js": "/profile/static/js/main.bd454f3c.js",
+    "static/js/453.ace21015.chunk.js": "/profile/static/js/453.ace21015.chunk.js",
+    "static/media/leaf.png": "/profile/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/profile/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/profile/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/profile/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/Maruti_Davari_Full_Stack_Java_Developer_Resume_updt.pdf": "/profile/static/media/Maruti_Davari_Full_Stack_Java_Developer_Resume_updt.19898af3e6539361e53a.pdf",
+    "static/media/blog.png": "/profile/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/about.png": "/profile/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/marutid-d.jpeg": "/profile/static/media/marutid-d.73af6bfecf1d8bf9d163.jpeg",
+    "static/media/chatify.png": "/profile/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/pcmc.jpg": "/profile/static/media/pcmc.5af68970e0acb2613053.jpg",
+    "static/media/home-bg.jpg": "/profile/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/yarnX.png": "/profile/static/media/yarnX.e8c1f2943ddeeff594f2.png",
+    "static/media/logo.png": "/profile/static/media/logo.7253d0c3dd7c1d4e1a22.png",
+    "static/media/kurebuddy.jpg": "/profile/static/media/kurebuddy.d7bb98abfe53995b73c0.jpg",
+    "static/media/pawsapce.jpg": "/profile/static/media/pawsapce.3f8e5868a3209554c56a.jpg",
+    "static/media/avatar.svg": "/profile/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/profile/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/profile/index.html",
+    "main.41cc1539.css.map": "/profile/static/css/main.41cc1539.css.map",
+    "main.bd454f3c.js.map": "/profile/static/js/main.bd454f3c.js.map",
+    "453.ace21015.chunk.js.map": "/profile/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41cc1539.css",
+    "static/js/main.bd454f3c.js"
+  ]
+}
