@@ -24,7 +24,7 @@ out/
 
 # Gatsby files (if using Gatsby)
 .cache/
-public/
+
 
 # ESLint cache
 .eslintcache
